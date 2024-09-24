@@ -1,5 +1,0 @@
-# ninja log v6
-30	390	7485776715629009	CMakeFiles/test.dir/punteros.cpp.obj	226b47c314581787
-18	698	7485780442348464	CMakeFiles/test.dir/dynamicMemory.cpp.obj	931b15c33c35e916
-1568	2002	7485776731007565	test.exe	eb346f725a19fed3
-13	1565	7485776715455421	CMakeFiles/test.dir/main.cpp.obj	fd5bbdef91ebb0f3
